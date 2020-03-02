@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Todoey ✓
 
 ## Our Goal
@@ -25,7 +22,7 @@ A todolist app to keep track of all your tasks.
 - Learn about design patterns and why they are useful.
 - Understand how the Provider package works and use it to manage app state.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>-----
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
